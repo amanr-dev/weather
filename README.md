@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-###[Live Site] (https://weathers-live.netlify.app)
+### [Live Site] (https://weathers-live.netlify.app)
 
 ## Available Scripts
 
